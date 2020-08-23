@@ -1,0 +1,32 @@
+@import 'css/layout.scss';
+@import 'css/utils.scss';
+@import 'css/router.scss';
+
+.ant-table-thead {
+    border-radius: 15px !important;
+}
+.ant-table-thead > tr > th{
+    background-color: #242237 !important;
+    color:#fff !important
+}
+
+.ant-table-thead > tr > th:last-child{
+    border-top-right-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+}
+
+.ant-table-thead > tr > th:first-child{
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+}
+
+.ant-menu .ant-menu-submenu-open{
+    background: #000 !important;
+}
+.ant-menu-submenu-open .ant-menu-submenu-title{
+    color: #7575a3 !important;
+}
+
+
+
+  

@@ -1,0 +1,18 @@
+@import '@/components/mixins.scss';
+
+.rebaseouter{
+  display: flex;
+  flex-direction: row;
+}
+.rebaseimage{
+  height: 50px;
+  width: auto;
+  border-radius: 20px;
+}
+.rebaseouter h4{
+  margin: 0 !important;
+}
+.rebasegreen{
+  color: #41c995 ;
+  font-size: 30px;
+}

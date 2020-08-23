@@ -1,0 +1,28 @@
+{
+  "tableData": [
+    {
+      "key": "1",
+      "date": "2014/06/13 10:23 PM +UTC",
+      "price": "0.0023 ETH",
+      "deltatrend": "+78.000 TREND",
+      "supplydelta": "+150%",
+      "type": "Weekly"
+    },
+    {
+      "key": "2",
+      "date": "2014/06/13 10:23 PM +UTC",
+      "price": "0.0023 ETH",
+      "deltatrend": "+78.000 TREND",
+      "supplydelta": "+150%",
+      "type": "Weekly"
+    },
+    {
+      "key": "3",
+      "date": "2014/06/13 10:23 PM +UTC",
+      "price": "0.0023 ETH",
+      "deltatrend": "+78.000 TREND",
+      "supplydelta": "+150%",
+      "type": "Weekly"
+    }
+  ]
+}
