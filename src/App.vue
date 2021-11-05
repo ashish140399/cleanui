@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <localization>
-      
     </localization>
   </div>
 </template>
